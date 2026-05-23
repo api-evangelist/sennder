@@ -1,0 +1,128 @@
+aid: sennder
+name: sennder
+description: >-
+  sennder is Europe's leading digital road freight forwarder, connecting
+  enterprise shippers with a vetted carrier network of 40,000+ small and
+  medium-sized European carriers operating 250,000+ vehicles across 20+
+  European markets. Headquartered in Berlin with 20 offices across Germany,
+  Italy, Spain, France, Poland, the Netherlands, Latvia, and Romania,
+  sennder runs its proprietary sennOS platform covering end-to-end digital
+  shipment lifecycle management, real-time visibility and tracking, self-
+  service booking at fixed and market prices, and integrated carrier and
+  shipper portals (including a driver app and shipper TMS connectors).
+  sennder operates partner-gated integration APIs for carriers, shippers,
+  and TMS vendors (joined via business onboarding rather than public self-
+  service), and publishes open-source tooling on GitHub including a generator
+  for Python httpx + Pydantic clients from OpenAPI definitions. Sustainability
+  offerings include biofuel and electric vehicle options.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://www.sennder.com
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+position: 1
+access: 3rd-Party
+tags:
+  - Carriers
+  - Digital Freight
+  - Europe
+  - Freight Forwarding
+  - Logistics
+  - Road Freight
+  - Shippers
+  - Supply Chain
+  - TMS Integration
+  - Transportation
+apis:
+  - aid: sennder:partner-integration
+    name: sennder Partner Integration API
+    description: >-
+      sennder offers partner-gated integration APIs that allow shippers,
+      carriers, and TMS vendors to connect to the sennOS platform for
+      shipment booking, dispatch, status updates, and real-time visibility.
+      These APIs are not publicly self-service; access is granted through
+      business onboarding via the sennder integrations and partnerships
+      teams. Capabilities typically cover load tendering, order
+      acknowledgement, geolocation/tracking events, proof of delivery, and
+      document exchange aligned with European road freight workflows.
+    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://www.sennder.com/
+    baseURL: https://www.sennder.com
+    tags:
+      - Carriers
+      - Freight Forwarding
+      - Logistics
+      - Shippers
+      - TMS Integration
+      - Visibility
+    properties:
+      - url: https://www.sennder.com/carriers
+        type: Portal
+      - url: https://www.sennder.com/shippers
+        type: Portal
+      - url: https://www.sennder.com/contact
+        type: GettingStarted
+      - url: https://github.com/sennder/python-client-generator
+        type: GitHubRepository
+common:
+  - url: https://www.sennder.com/
+    name: sennder Website
+    type: Website
+  - url: https://www.sennder.com/about
+    name: About sennder
+    type: About
+  - url: https://www.sennder.com/news
+    name: News
+    type: Blog
+  - url: https://www.sennder.com/carriers
+    name: For Carriers
+    type: Portal
+  - url: https://www.sennder.com/shippers
+    name: For Shippers
+    type: Portal
+  - url: https://www.sennder.com/sennos
+    name: sennOS Platform
+    type: Product
+  - url: https://www.sennder.com/sustainability
+    name: Sustainability
+    type: Sustainability
+  - url: https://www.sennder.com/careers
+    name: Careers
+    type: Careers
+  - url: https://www.sennder.com/contact
+    name: Contact
+    type: Contact
+  - url: https://github.com/sennder
+    name: sennder on GitHub
+    type: GitHubOrganization
+  - url: https://github.com/sennder/python-client-generator
+    name: python-client-generator (OpenAPI Tooling)
+    type: GitHubRepository
+  - url: https://www.linkedin.com/company/sennder/
+    name: LinkedIn
+    type: LinkedIn
+  - url: https://x.com/sennder_europe
+    name: X (Twitter)
+    type: X
+  - url: https://www.instagram.com/sennder_europe/
+    name: Instagram
+    type: Instagram
+  - url: https://www.facebook.com/sennderEU
+    name: Facebook
+    type: Facebook
+  - url: https://www.youtube.com/@sennder
+    name: YouTube
+    type: YouTube
+  - url: https://www.sennder.com/imprint
+    name: Imprint
+    type: Imprint
+  - url: https://www.sennder.com/terms-and-conditions
+    name: Terms and Conditions
+    type: TermsOfService
+  - url: https://www.sennder.com/privacy-policy
+    name: Privacy Policy
+    type: PrivacyPolicy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
