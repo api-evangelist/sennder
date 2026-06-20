@@ -15,7 +15,7 @@ description: >-
   service), and publishes open-source tooling on GitHub including a generator
   for Python httpx + Pydantic clients from OpenAPI definitions. Sustainability
   offerings include biofuel and electric vehicle options.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://www.sennder.com
 created: '2026-05-23'
 modified: '2026-05-23'
@@ -46,7 +46,7 @@ apis:
       teams. Capabilities typically cover load tendering, order
       acknowledgement, geolocation/tracking events, proof of delivery, and
       document exchange aligned with European road freight workflows.
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.sennder.com/
     baseURL: https://www.sennder.com
     tags:
