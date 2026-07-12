@@ -66,6 +66,8 @@ apis:
       - url: https://github.com/sennder/python-client-generator
         type: GitHubRepository
 common:
+  - type: DomainSecurity
+    url: security/sennder-domain-security.yml
   - url: https://www.sennder.com/
     name: sennder Website
     type: Website
