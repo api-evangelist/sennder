@@ -2,18 +2,11 @@
   "repo": "sennder",
   "feeds": [
     {
-      "source": "https://www.sennder.com/blog",
-      "feed_url": "",
-      "saved": 0,
-      "method": "agent-scrape"
-    },
-    {
       "source": "https://www.sennder.com/news",
-      "saved": 0,
-      "error": "HTTP 404"
+      "error": "HTTPError"
     }
   ],
   "post_count": 13,
-  "fetched": "2026-06-27T13:09:16Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
