@@ -15,7 +15,19 @@ description: >-
   service), and publishes open-source tooling on GitHub including a generator
   for Python httpx + Pydantic clients from OpenAPI definitions. Sustainability
   offerings include biofuel and electric vehicle options.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: free
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Free
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sennder.png
 url: https://www.sennder.com
 created: '2026-05-23'
 modified: '2026-05-23'
