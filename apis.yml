@@ -15,6 +15,18 @@ description: >-
   service), and publishes open-source tooling on GitHub including a generator
   for Python httpx + Pydantic clients from OpenAPI definitions. Sustainability
   offerings include biofuel and electric vehicle options.
+deliveryModel:
+  model: unknown
+  open_source: unknown
+  commercial: true
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - pricing
+  - repository-unlicensed
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
