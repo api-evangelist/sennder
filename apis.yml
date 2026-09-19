@@ -48,6 +48,17 @@ type: Index
 position: 1
 access: 3rd-Party
 tags:
+  - Carrier
+  - Digital Freight
+  - Europe
+  - Freight Forwarding
+  - Logistics
+  - Road Freight
+  - Shippers
+  - Supply Chain
+  - TMS Integration
+  - Transportation
+tags_raw:
   - Carriers
   - Digital Freight
   - Europe
@@ -74,6 +85,13 @@ apis:
     humanURL: https://www.sennder.com/
     baseURL: https://www.sennder.com
     tags:
+      - Carrier
+      - Freight Forwarding
+      - Logistics
+      - Shippers
+      - TMS Integration
+      - Visibility
+    tags_raw:
       - Carriers
       - Freight Forwarding
       - Logistics
