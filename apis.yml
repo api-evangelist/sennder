@@ -16,16 +16,19 @@ description: >-
   for Python httpx + Pydantic clients from OpenAPI definitions. Sustainability
   offerings include biofuel and electric vehicle options.
 deliveryModel:
-  model: unknown
+  model: saas
+  license_evidence:
+    not_product:
+    - sennder/python-client-generator
   open_source: unknown
   commercial: true
   callable_host: false
-  label: Delivery model not determined — needs a product licence on record
+  label: Hosted service · you call their endpoint
   confidence: low
   source:
   - pricing
-  - repository-unlicensed
-  generated: '2026-08-28'
+  - repository-not-product
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: free
@@ -83,7 +86,6 @@ apis:
       document exchange aligned with European road freight workflows.
     image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://www.sennder.com/
-    baseURL: https://www.sennder.com
     tags:
       - Carrier
       - Freight Forwarding
