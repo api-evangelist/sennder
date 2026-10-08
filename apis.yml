@@ -110,6 +110,12 @@ apis:
       - url: https://github.com/sennder/python-client-generator
         type: GitHubRepository
 common:
+  - type: Plans
+    url: plans/sennder-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/sennder-rate-limits.yml
+  - type: FinOps
+    url: finops/sennder-finops.yml
   - type: DomainSecurity
     url: security/sennder-domain-security.yml
   - url: https://www.sennder.com/
